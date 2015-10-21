@@ -1,2 +1,3 @@
 # hangman
-game hangman
+game Hangman
+author mawiro
